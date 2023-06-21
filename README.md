@@ -2,6 +2,7 @@
 **My profile on [codewars](https://www.codewars.com/users/evgenyelagin)**:
 ___
 ![Codewars Rank](https://www.codewars.com/users/evgenyelagin/badges/large)  
+***
 **Navigation:**
 
 [8KYU](https://github.com/evgenyelagin/python_codewars/tree/main/8KYU) |
