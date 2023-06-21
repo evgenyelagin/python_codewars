@@ -1,9 +1,9 @@
 # Делаю ката - python_codewars
 ### My profile on [codewars](https://www.codewars.com/users/evgenyelagin)**:
 
-![Codewars Rank](https://www.codewars.com/users/evgenyelagin/badges/large)  
-___
-**Navigation:**
+![Codewars Rank](https://www.codewars.com/users/evgenyelagin/badges/large)
+
+### Navigation:
 
 [8KYU](https://github.com/evgenyelagin/python_codewars/tree/main/8KYU) | [7KYU]
 ### 8 kyu:
