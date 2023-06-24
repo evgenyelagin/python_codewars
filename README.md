@@ -14,3 +14,4 @@
 5. [Find multiplies of a number](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/find_multiples_of_a_number.py) - [Условия задачи](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
 6. [Lario and Muigi Pipe Problem](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/lario_and_muigi_pipe_problem.py) - [Условия задачи](https://www.codewars.com/kata/56b29582461215098d00000f)
 7. [Make Uper Case](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/make_upper_case.py) - [Условия задачи](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
+8. [Even or Odd](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/even_or_odd.py) - [Условия задачи](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
