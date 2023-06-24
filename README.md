@@ -12,3 +12,4 @@
 - [Find_the_position](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/find_the_position.py) - [Условия задачи](https://www.codewars.com/kata/5808e2006b65bff35500008f)
 - [Drink about](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/drink_about.py) - [Условия задачи](https://www.codewars.com/kata/56170e844da7c6f647000063)
 - [Find multiplies of a number](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/find_multiples_of_a_number.py) - [Условия задачи](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
+- [Find multiplies of a number](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/find_multiples_of_a_number.py) - [Условия задачи](https://www.codewars.com/kata/58ca658cc0d6401f2700045f)
