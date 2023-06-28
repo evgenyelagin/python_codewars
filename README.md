@@ -19,3 +19,4 @@
 10. [What is between](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/what_is_between.py) - [Условия задачи](https://www.codewars.com/kata/55ecd718f46fba02e5000029)
 11. [Twice an old](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/twice_an_old.py) - [Условия задачи](https://www.codewars.com/kata/5b853229cfde412a470000d0)
 12. [Quater of year](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/quater_of_the_year.py) - [Условия задачи](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
+13. [Get character from ASCII value](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/get_character_from_ASCII_value.py) - [Условия задачи](https://www.codewars.com/kata/55ad04714f0b468e8200001c)
