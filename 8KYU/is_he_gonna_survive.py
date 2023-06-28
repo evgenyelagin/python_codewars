@@ -3,3 +3,7 @@ def hero(bullets, dragons):
         return True
     else:
         return False
+
+# можно упросить функцию
+def hero2(bullets, dragons):
+    return bullets / 2 >= dragons
