@@ -22,5 +22,6 @@
 13. [Get character from ASCII value](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/get_character_from_ASCII_value.py) - [Условия задачи](https://www.codewars.com/kata/55ad04714f0b468e8200001c)
 14. [Is he gonna survive](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/is_he_gonna_survive.py) - [Условия задачи](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
 15. [Sum of positive](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/sum_of_positive.py) - [Условия задачи](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+16. [Is it palindrome]() - [Условия задачи](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 
 
