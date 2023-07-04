@@ -24,6 +24,7 @@
 15. [Sum of positive](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/sum_of_positive.py) - [Условия задачи](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 16. [Is it palindrome](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/is_it_palindrome.py) - [Условия задачи](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 17. [Short Long Short](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/short_long_short.py) - [Условия задачи](https://www.codewars.com/kata/50654ddff44f800200000007)
+18. [Short Long Short](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/school_paperwork_beginer.py) - [Условия задачи](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
 
 
 
