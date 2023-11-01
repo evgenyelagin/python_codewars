@@ -25,7 +25,8 @@
 16. [Is it palindrome](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/is_it_palindrome.py) - [Условия задачи](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 17. [Short Long Short](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/short_long_short.py) - [Условия задачи](https://www.codewars.com/kata/50654ddff44f800200000007)
 18. [School Paperwork Beginer](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/school_paperwork_beginer.py) - [Условия задачи](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
-19. [Set Alarm](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/set_alarm.py) - [Условия задачи](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
+19. [Set Alarm](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/set_alarm) - [Условия задачи](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
+20. [Return Negative](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/return_negative.py) - [Условия задачи](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 
 
 
