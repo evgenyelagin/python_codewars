@@ -27,7 +27,7 @@
 18. [School Paperwork Beginer](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/school_paperwork_beginer.py) - [Условия задачи](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd)
 19. [Set Alarm](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/set_alarm) - [Условия задачи](https://www.codewars.com/kata/568dcc3c7f12767a62000038)
 20. [Return Negative](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/return_negative.py) - [Условия задачи](https://www.codewars.com/kata/55685cd7ad70877c23000102)
-
+21. [Return Negative](https://github.com/evgenyelagin/python_codewars/blob/main/8KYU/is_the_string_uppercase.py) - [Условия задачи](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b)
 
 
 
